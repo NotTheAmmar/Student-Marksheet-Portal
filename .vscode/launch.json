@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run",
+      "type": "firefox",
+      "request": "launch",
+      "url": "http://localhost/PHP/Student Marksheet Portal/index.php",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
